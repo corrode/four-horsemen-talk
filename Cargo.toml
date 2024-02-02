@@ -1,0 +1,15 @@
+[package]
+name = "logparser"
+version = "0.1.0"
+edition = "2021"
+
+[profile.release]
+debug = true
+
+[dependencies]
+ahash = "0.8.7"
+csv = "1.3.0"
+memmap2 = "0.9.4"
+rayon = "1.8.1"
+serde = { version = "1.0.196", features = ["serde_derive"] }
+tempfile = "3.9.0"
