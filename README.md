@@ -1,6 +1,6 @@
 # The 4 Horsemen of Bad Rust Code
 
-![Hero Image](/hero.png)
+[![Hero Image](/hero.png)](https://fosdem.org/2024/schedule/event/fosdem-2024-2434-the-four-horsemen-of-bad-rust-code/)
 
 These are the slides and code samples for my talk
 "The 4 Horsemen of Bad Rust Code." 
